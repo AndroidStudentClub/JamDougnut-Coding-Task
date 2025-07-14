@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JamDoughnutTest</string>
+    <string name="navigation_back">Back</string>
+    <string name="details_error">Something went wrong, please try later</string>
+
+
+    <string name="currency_gbp">GBP</string>
+    <string name="cashback_text">%1$s%% cashback</string>
+
+
+</resources>
