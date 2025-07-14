@@ -1,4 +1,4 @@
-package com.jamdoughnut.test.catalog
+package com.jamdoughnut.test.catalog.presentation
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -42,7 +42,7 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import coil.compose.AsyncImage
 import com.jamdoughnut.test.R
-import com.jamdoughnut.test.product_details.PriceText
+import com.jamdoughnut.test.product_details.presentation.PriceText
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

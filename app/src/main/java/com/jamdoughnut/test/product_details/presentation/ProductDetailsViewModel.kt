@@ -1,4 +1,4 @@
-package com.jamdoughnut.test.product_details
+package com.jamdoughnut.test.product_details.presentation
 
 import com.jamdoughnut.test.base.BaseViewModel
 import com.jamdoughnut.test.catalog.data.dto.ProductDto

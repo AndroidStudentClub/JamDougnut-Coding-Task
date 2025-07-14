@@ -2,7 +2,7 @@
 
 This is the architecture of the project:
 
-![Diagram](app/src/main/res/drawable/Diagram.png)
+![Diagram](app/src/main/res/drawable/diagram.png)
 
 * Created all necessary UI using Jetpack Compose
 * Added new Composable ProductDetailsScreen and CatalogScreen
@@ -12,10 +12,10 @@ This is the architecture of the project:
 * Domain package consists of: Interactors, Repositories
 
 ## The project consists of
-Presentation layer (all UI classes and ViewModel)
-Domain layer (Interactors and Repository interfaces)
-Data layer (Data Transfer Object (DTO) and repository implementations)
-Utils package
+* Presentation layer (all UI classes and ViewModel)
+* Domain layer (Interactors and Repository interfaces)
+* Data layer (Data Transfer Object (DTO) and repository implementations)
+* Utils package
 
 ## Libraries
 Hilt for DI

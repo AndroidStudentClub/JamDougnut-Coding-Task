@@ -1,4 +1,4 @@
-package com.jamdoughnut.test.catalog
+package com.jamdoughnut.test.catalog.presentation
 
 import androidx.lifecycle.viewModelScope
 import com.jamdoughnut.test.base.BaseViewModel
