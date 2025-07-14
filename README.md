@@ -18,9 +18,9 @@ This is the architecture of the project:
 * Utils package
 
 ## Libraries
-Hilt for DI
-Kotlin Coroutnies for reactive stream
-Kotlinx.Serialization for JSON
-Mockito, Junit for Unit tests
+* Hilt for DI
+* Kotlin Coroutnies for reactive stream
+* Kotlinx.Serialization for JSON
+* Mockito, Junit for Unit tests
 
   
